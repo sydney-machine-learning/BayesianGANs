@@ -1,2 +1,2 @@
-# RL-paralleltempering
-Reinforcement learning via parallel tempering
+# Bayesian GANs via parallel tempering
+Bayesian GANs via parallel tempering
